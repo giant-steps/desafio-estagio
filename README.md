@@ -24,4 +24,4 @@ Hoje, sua missão é criar um validador de CEPs baseados em algumas pequenas reg
 - "123456"
 - "997531"
 
-Você deve desenvolver isto utilizando TDD. Damos preferência a soluções utilizando REGEX e string slicing.
+Damos preferência a soluções utilizando REGEX e string slicing. Além disso não esqueça de cobrir sua solução com testes.
