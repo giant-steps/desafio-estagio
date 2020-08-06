@@ -2,7 +2,7 @@
 Este repo contém o enunciado do desafio proposto para os candidatos a vaga de estágio em tecnologia da Giant Steps Capital
 
 ## Instruções de Entrega
-Segue nosso desafio técnico que deve ser entregue em um repositório **privado** no GitHub, autorizar o acesso usuário [@rafalee](https://github.com/rafalee) e enviar um e-mail para a pessoa que entrou em contato para a vaga quando finalizar o desafio com o link para o repositório.
+Segue nosso desafio técnico que deve ser entregue em um repositório **privado** no GitHub, autorizar o acesso ao usuário [@rafalee](https://github.com/rafalee) e enviar um e-mail para a pessoa que entrou em contato para a vaga quando finalizar o desafio com o link para o repositório.
 A solução deverá ser implementada utilizando Python e o repositório deverá conter um README contemplando instruções suficientes para execução da solução e execução dos testes automatizados.
 
 ## Enunciado
